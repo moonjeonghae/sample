@@ -14,3 +14,20 @@
 
 - 블랫 표현1
 - 블랫 표현2
+
+### 고드 넣기
+-function add(x.y)  return x + y;
+
+
+### 하이퍼텍스트
+https://www.naver.com
+
+[구글로 연결](https://www.google.com)
+
+[네이버로 연결(https://www.naver.com, 검색 사이트)]
+
+
+### 이미지 삽입하기
+#### 링크로 삽입
+![풍경이미지](https://png.pngtree.com/thumb_back/fh260/background/20230330/pngtree-beautiful-scenery-suitable-for-summer-travel-image_2121335.jpg)
+
