@@ -12,8 +12,17 @@
 > 인용문
 >> 인용문 안에 인용문
 
+
+### 블랫 리스트
 - 블랫 표현1
 - 블랫 표현2
+
+
+## 숫자 리스트
+1. first
+2. second
+3. third
+
 
 ### 고드 넣기
 -function add(x.y)  return x + y;
@@ -31,3 +40,13 @@ https://www.naver.com
 #### 링크로 삽입
 ![풍경이미지](https://png.pngtree.com/thumb_back/fh260/background/20230330/pngtree-beautiful-scenery-suitable-for-summer-travel-image_2121335.jpg)
 
+#### 깃에 올려 삽입
+![landscape](./img/sunset.jpg)
+
+
+### 테이블 만들기
+|Header1|Header2|
+|:--:|:--|
+|content1|content2|
+|content1|content2|
+|content1|content2|
